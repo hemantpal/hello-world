@@ -1,2 +1,2 @@
 # hello-world
-welcome to0 git tutorial to done
+welcome to git tutorial to done
